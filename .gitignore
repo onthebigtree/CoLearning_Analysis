@@ -1,7 +1,9 @@
 .env
-
+lianshang/
 __pycache__/
 *.py[cod]
 Downloaded_repo/
 venv/
 env/
+single_analysis/
+analysis_results.json
